@@ -1,0 +1,46 @@
+# CSP course meta data
+Unit1:
+  title: Introduction to Tools and Resources
+  description: To learn Java and build skills for Career Technical Education students will quickly immerse into Tools and Resources for Java Development and Blogging.  These early weeks will focus on the Development Environment, GitHub Pages Blogging platform, AP Classroom resources, and Programming Java with VSCode and Jupyter Notebooks.
+  start: 0
+  end: 3
+Unit2:
+  title: Java Mini-labs
+  description: Students have been introduced to Classes and Inheritance in Python and JavaScript.  In this unit students will become more familiar with Java development and classes through mini-labs.  These labs will focus on AP required aspects of Java, additionally they can be used as code to support the backend of a Desktop App or WebSite. This unit concludes with 4 person Project Plan, kicking off the end of trimester N@TM project.   Students will be able to write code that completes full stack process of Frontend talking to the Java backend.
+  start: 4
+  end: 7
+Unit3:
+  title:  Individual/Team Projects and N@tM
+  description: This Units requirement is to to build individual development skills and a Team Frontend and Backend project in Java.  By the end of this unit students will be aware of all the College Board Units and FRQ types.   Student will participate in live grading of peers work.  Fastpages Blogs and Jupyter Notebooks are required for all individuals.   By the end of this section you should have examples, study materials, and code that show a great deal of effort, understanding, and competency.
+  start: 8
+  end: 12
+Unit4:
+  title: College Board Teaching and Study 
+  description: This period will complete formal teaching and grading on the basics of the 10 units.  Also, there will be a tech talk and homework on each FRQ type customized for Team PBL idea.
+  start: 13
+  end: 16
+Unit5:
+  title: Passion Projects
+  description: Objective of these weeks is to explore and create ideas and concepts for a Team two trimester project.  Adding frontend and creativity while using APIs/Databases.  This should be a project of personal and team interest.  Team projects that are most liked by Teachers and Students will be continued in Trimester 3.
+  start: 17
+  end: 20
+Unit6:
+  title: Creative Development and N@tM
+  description: This will be most creative portion of year for CSA students.  Each person within "Student Teams" will have their own specialty within their student project that shows Full Stack competency, requiring Java as backend.  Intentions for this period is to have a free and creative period, driven by your Issues and Scrum Board.  Student should be able to talk about design, do fe/be coding, addd database features and perform weekly live reviews.  
+  start: 21
+  end: 24
+Unit7: 
+  title: Data Structures
+  description: A focus Data Structures that relate to the AP exam.  A key requirement is to make your own Algo Rythmic sorting video.   The theme is produce work that can be used to help you pass the AP Exam and improve your Passion Project.  Each student must cover key concepts from one of the Four AP FRQ types, contain a key Data Structure, and utilize sorting. These requirements are fairly generic and could complement any project.
+  start: 25
+  end: 29
+Unit8:
+  title: AP Weeks
+  description: Student will lead several study sessions (20 minute test, follow by review) the week before the exam.  In any break in study, students will transition activities to a final project.
+  start: 30
+  end: 32
+Unit9:
+  title: Final Project and N@tM
+  description: Wrap up your preferred project.  There will be an opportunity to contribute and be published to the NightHawk Coding Society library.  If your project is selected, then you will receive a high 'A' on final.
+  start: 33
+  end: 36

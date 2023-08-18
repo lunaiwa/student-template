@@ -1,0 +1,31 @@
+# CSP course meta data
+Unit1:
+  title: Introduction to Tools, Blogging, Markdown, HTML and CSS
+  description: The initial weeks focus on introducing Tools, Pair Programming, and tools we will using throughout the year. At the end of the first unit, students will be blogging on GitHub and creating GitHub Pages; be introduced to Jupyter Notebooks and VSCode, coding with JavaScript, HTML, and CSS
+  start: 0
+  end: 3
+Unit2:
+  title: Introduction to Development with JavaScript
+  description: A key focus of this course is to make Web Games using JavaScript. These next few weeks we will perform the aspects of constructing a game and deploying the game to GitHub Pages.   Our goal is to participate in N@tM with the other CS classes and other classes from the Electives Department.
+  start: 4
+  end: 7
+Unit3:
+  title:  Building a Web Application with GitHub Pages for N@tM
+  description: Part of the process of becoming technically proficient is taking on challenges while coding, these challenges will often make a student feel uncomforatable.   But with some vision, questions, and AI research it is amazing what can be done.  
+  start: 8
+  end: 12
+Unit4:
+  title: Working with Data and Frameworks
+  description: Understanding key development frameworks available in GitHub Pages make development faster.  We will look at storing data in the Browsers with Local Storage, generating repetitive code using YML and Liquid and styling HTML with SASS.
+  start: 13
+  end: 16
+Unit5:
+  title: Algorithmic and Programming Fundamentals
+  description: Each week a "Student Team" will have a teaching assignment.  Additionally, the Teacher is providing mini-labs that correspond to topics for the week.  Using the two things together, you will your learning experience, blogging and Jupyter Notebooks skills.
+  start: 17
+  end: 20
+Unit6:
+  title: Create a Final Project and N@tM 
+  description: Trimester 2 concludes with student presenting their CPT project at N@tM.  Each person within "Student Teams" will have their own specialty within the student project that satisfied all their Create Performance Task requirements.   Student should be able to talk about design, coding, and present features of their portion of the system.
+  start: 21
+  end: 24
