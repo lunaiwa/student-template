@@ -2,10 +2,58 @@
 layout: default
 title: Student Blog
 ---
+<link rel="stylesheet" href="index.css">
+
+# Luna's Page
+
+## **Drawings**
+
+![IMG_3148](https://github.com/lunaiwa/student-template/assets/111661543/ae87aecb-4154-4a20-8cc4-ddf8fe19291e)
 
 
-## Luna's Page
-To the github page >>>
+
+
+
+
+
+
+<body>
+<h2>Work Schedule</h2>
+
+<table>
+  <tr>
+    <th>Week</th>
+    <th>Plan</th>
+    <th>Hacks</th>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>plan</td>
+    <td>hacks</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>plan</td>
+    <td>hacks</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>plan</td>
+    <td>hacks</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>plan</td>
+    <td>hacks</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>plan</td>
+    <td>hacks</td>
+  </tr>
+</table>
+</body>
+
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 

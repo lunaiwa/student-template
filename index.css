@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+ /*can be applied to all of the html elements*/
+ font-family: 'Roboto Mono', monospace;
+ }
+ /*BACKGROUND colors and images*/
+ .header{
+    min-height: 10vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    background-color: clear;
+ }
+ .h2{
+    min-height: 5vh;
+    width: 75%;
+    color: #90b3ff;
+    position: relative;
+ }
+ 
+ .index-header{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 360px;
+    background-image: #eae7dc;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    color: #4f8fe8;
+ }
+ 
+ /*this will align the different buttons (home, inventory, ect.)*/
+ nav{
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+ }
+ nav img{
+    width: 150px;
+ }
+ /*fixing the size of the logo*/
+ .nav-links{
+    flex: 1;
+    text-align: center;
+ }
+ /*the ul and li are basically the list/buttons on the top of the page*/
+ .nav-links ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+ }
+ /*color and removing the underlining of buttons aka the animation :)*/
+ .nav-links ul li a{
+    color: #98a5fa;
+    text-decoration: none;
+    font-size: 13px;
+ }
+ 
+ /*
+ font-family: 'Roboto Mono', monospace;
+  */
+ body{
+    padding: 100px 
+ }
+ 
+
+
+ /*table*/
+ table {
+   font-family: arial, sans-serif;
+   border-collapse: collapse;
+   width: 100%;
+ }
+ 
+ td, th {
+   border: 1px solid #9dc5f6;
+   text-align: left;
+   padding: 8px;
+ }
+ 
+ tr:nth-child(even) {
+   background-color: #cbe1fe;
+ }
+ 
