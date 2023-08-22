@@ -8,51 +8,10 @@ title: Student Blog
 
 ## **Drawings**
 
-![IMG_3148](https://github.com/lunaiwa/student-template/assets/111661543/ae87aecb-4154-4a20-8cc4-ddf8fe19291e)
+<img src="https://github.com/lunaiwa/student-template/assets/111661543/eb2ea578-ed7b-457c-8af5-9b5b34fa1d8c" 
+     width="300" 
+     height="500" />
 
-
-
-
-
-
-
-
-<body>
-<h2>Work Schedule</h2>
-
-<table>
-  <tr>
-    <th>Week</th>
-    <th>Plan</th>
-    <th>Hacks</th>
-  </tr>
-  <tr>
-    <td>0</td>
-    <td>plan</td>
-    <td>hacks</td>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>plan</td>
-    <td>hacks</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>plan</td>
-    <td>hacks</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>plan</td>
-    <td>hacks</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>plan</td>
-    <td>hacks</td>
-  </tr>
-</table>
-</body>
 
 
 ## Overview of Hacks, Study and Tangibles

@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
  /*can be applied to all of the html elements*/
- font-family: 'Roboto Mono', monospace;
+ font-family: 'Silkscreen', cursive;
  }
  /*BACKGROUND colors and images*/
  .header{
@@ -13,7 +13,7 @@
     position: relative;
     background-color: clear;
  }
- .h2{
+ .a{
     min-height: 5vh;
     width: 75%;
     color: #90b3ff;
@@ -47,6 +47,7 @@
  .nav-links{
     flex: 1;
     text-align: center;
+
  }
  /*the ul and li are basically the list/buttons on the top of the page*/
  .nav-links ul li{
