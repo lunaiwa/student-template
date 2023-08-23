@@ -15,7 +15,8 @@ title: Student Blog
     width="400"
     height="300" />
 
-
+   <label for="colorpicker">Color Picker:</label>
+   <input type="color" id="colorpicker" value="#0000ff">
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 

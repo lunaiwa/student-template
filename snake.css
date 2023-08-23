@@ -1,0 +1,92 @@
+html, body {
+    height: 100%;
+    }
+  body {
+    background: linear-gradient(white,#b8b8d1);
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  canvas {
+    background: tan;
+    text-align:center;
+    padding-left: 0;
+    padding-right: 0;
+    top: 150px;
+    left: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: absolute;
+  }
+  :root {
+    --apple: blue;
+    --snake: purple;
+  }
+  #p1 {
+    color:purple;
+    position:relative;
+    padding-left: 50px;
+    padding-top: 25px;
+  
+  }
+  #p2 {
+    color:purple;
+    position:relative;
+    padding-left: 50px;
+    padding-top: 25px;
+  }
+  #score {
+    color:purple;
+    position:relative;
+    padding-left: 50px;
+    padding-top: 25px;
+  }
+  #high {
+    color:purple;
+    position:relative;
+    padding-left: 50px;
+    padding-top: 25px;
+  }
+  #btn_stop {
+    color:purple;
+    position:absolute;
+    bottom: 50px;
+    right: 43%;
+  }
+  #end_msg {
+    color:purple;
+    position:relative;
+    padding-left: 50px;
+    padding-top: 20px;
+  }
+  button {
+    border-radius: 20px;
+    background-color: white;
+    color: purple;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+  }
+  h1 {
+    font-size: 40px;
+    padding:15px;
+  }
+  img {
+    padding: 15px;
+  }
+  h2 {
+    padding: 15px;
+    text-align: center;
+  }
+  h3, h4 {
+    padding: 15px;
+  }
+  table ul {
+    padding: 30px;
+  }
